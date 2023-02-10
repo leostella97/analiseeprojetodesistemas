@@ -16,4 +16,4 @@ Os modelos são elaborados a partir de <b>paradigmas(padrões)</b> e <b>represen
 <br>
 • <b>Modelagem</b> é a <i>construção</i> de diagramas, uma representação gráfica da realidade. Os paradigmas mais populares são <b>estruturados</b> para a compreensão do <i>paradigma orientado a objetos</i>
 <br>
-Alguns <i>conceitos</i> são: 
+Alguns <i>conceitos</i> são:
