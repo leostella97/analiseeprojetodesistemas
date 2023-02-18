@@ -27,3 +27,5 @@ Alguns <i>conceitos</i> são:
 <br>
 • O <b>polimorfismo</b> representa o estado de um objeto ser capaz de assumir várias formas, ou seja, um objeto, ao receber uma mensagem, é quem determinará qual será sua ação ou operação.
 <br>
+• A <b>herança</b> é um mecanismo que permite que as características comuns a diversas classesmpossam ser generalizadas ou especializadas em uma mesma classe. Por exemplo, carro(subclasse), moto(subclasse), onibus(subclasse) podem ser generalizadas da classe veículos_automotores(superclasse)
+<br>
