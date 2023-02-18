@@ -21,3 +21,5 @@ Alguns <i>conceitos</i> são:
 <br>
 • Uma <b>classe</b> é um conjunto de atributos e serviços comuns a um grupo de objetos. Dessa forma, pode-se entender que o objeto é uma <i>instância</i>(ou está sob o campo) de uma classe.
 <br>
+• A <b>abstração</b> é um processo mental em que nos concentramos no que o objeto é e faz para, a partir daí, formularmos os conceitos gerais.
+<br>
