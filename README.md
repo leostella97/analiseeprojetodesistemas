@@ -14,6 +14,8 @@ Os modelos são elaborados a partir de <b>paradigmas(padrões)</b> e <b>represen
 <br>
 • <b>Paradigma de programação é um modelo padrão ou estilo de programação <i>suportado</i> por linguagens que <i>agrupam certas características</i> comuns.
 <br>
-• <b>Modelagem</b> é a <i>construção</i> de diagramas, uma representação gráfica da realidade. Os paradigmas mais populares são <b>estruturados</b> para a compreensão do <i>paradigma orientado a objetos</i>
+• <b>Modelagem</b> é a <i>construção</i> de diagramas, uma representação gráfica da realidade. Os paradigmas mais populares são <b>estruturados</b> para a compreensão do <i>paradigma orientado a objetos.</i>
 <br>
 Alguns <i>conceitos</i> são:
+• Um <b>objeto</b>, que pode ser qualquer coisa abstrata ou concreta, pode ser construído e complexo; realizar uma tarefa por meio de <i>requisição de serviços</i>(emissão de mensagens) de outros objetos e pertencer a uma classe, por exemplo, pode ser um carro, passagens de transportes, instituição etc.
+<br>
