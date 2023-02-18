@@ -30,3 +30,7 @@ Alguns <i>conceitos</i> são:
 • A <b>herança</b> é um mecanismo que permite que as características comuns a diversas classesmpossam ser generalizadas ou especializadas em uma mesma classe. Por exemplo, carro(subclasse), moto(subclasse), onibus(subclasse) podem ser generalizadas da classe veículos_automotores(superclasse).
 <br>
 • <b>Lei da Parcimonia</b>, também conhecida como <b>navalha de Occam</b>, é um princípio lógico onde a melhor solução é aquela que apresenta a menor quantidade de premissas possíveis.
+<br>
+O <i>principal</i> valor da UML está no <b>entendimento e comunicação</b>
+<br>
+A <b>UML executável</b> é <i>semelhante</i> a <b>MDA(Model Driven Architeture)</b> mas, não usa o <i>padrão UML</i> completo, muitas construções da UML são consideradas desnecessárias e, portanto, não são usadas. Como resultado, a <i>UML executável</i> é mais <i>simples</i> que a UML completa
