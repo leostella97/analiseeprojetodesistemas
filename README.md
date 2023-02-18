@@ -12,7 +12,7 @@ A UML chegou para nós hoje por meio do <b>OMG(Object Management Group</b>, uma 
 <br>
 Os modelos são elaborados a partir de <b>paradigmas(padrões)</b> e <b>representações características</b> como imagens, símbolos, ideias, etc.
 <br>
-• <b>Paradigma de programação é um modelo padrão ou estilo de programação <i>suportado</i> por linguagens que <i>agrupam certas características</i> comuns.
+• <b>Paradigma de programação é um modelo</b> padrão ou estilo de programação <i>suportado</i> por linguagens que <i>agrupam certas características</i> comuns.
 <br>
 • <b>Modelagem</b> é a <i>construção</i> de diagramas, uma representação gráfica da realidade. Os paradigmas mais populares são <b>estruturados</b> para a compreensão do <i>paradigma orientado a objetos.</i>
 <br>
