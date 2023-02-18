@@ -25,3 +25,5 @@ Alguns <i>conceitos</i> são:
 <br>
 • O <b>encapsulamento</b> consiste somente na visualização de aspectos externos de um objeto - sua <i>interface</i> -, logo, seus detalhes internos ficam ocultos aos demais objetos.
 <br>
+• O <b>polimorfismo</b> representa o estado de um objeto ser capaz de assumir várias formas, ou seja, um objeto, ao receber uma mensagem, é quem determinará qual será sua ação ou operação.
+<br>
