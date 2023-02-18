@@ -23,3 +23,5 @@ Alguns <i>conceitos</i> são:
 <br>
 • A <b>abstração</b> é um processo mental em que nos concentramos no que o objeto é e faz para, a partir daí, formularmos os conceitos gerais.
 <br>
+• O <b>encapsulamento</b> consiste somente na visualização de aspectos externos de um objeto - sua <i>interface</i> -, logo, seus detalhes internos ficam ocultos aos demais objetos.
+<br>
