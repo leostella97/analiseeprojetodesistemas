@@ -17,6 +17,7 @@ Os modelos são elaborados a partir de <b>paradigmas(padrões)</b> e <b>represen
 • <b>Modelagem</b> é a <i>construção</i> de diagramas, uma representação gráfica da realidade. Os paradigmas mais populares são <b>estruturados</b> para a compreensão do <i>paradigma orientado a objetos.</i>
 <br><br>
 Alguns <i>conceitos</i> são:
+<br>
 • Um <b>objeto</b>, que pode ser qualquer coisa abstrata ou concreta, pode ser construído e complexo; realizar uma tarefa por meio de <i>requisição de serviços</i>(emissão de mensagens) de outros objetos e pertencer a uma classe, por exemplo, pode ser um carro, passagens de transportes, instituição etc.
 <br>
 • Uma <b>classe</b> é um conjunto de atributos e serviços comuns a um grupo de objetos. Dessa forma, pode-se entender que o objeto é uma <i>instância</i>(ou está sob o campo) de uma classe.
