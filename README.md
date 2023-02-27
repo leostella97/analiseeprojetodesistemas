@@ -46,3 +46,5 @@ A UML é bastante <i>vantajosa</i> porque:
 <br>
 2 - Provê uma forma concreta o suficiente para a compreensão das pessoas para ser manipulada pelas máquinas.
 <br>
+3 - É <i>independente</i> da linguagem de programação, pode ser utilizada para diversas linguagens orientadas a objetos, como Java, PHP, C++, Python, entre outros.
+<br>
