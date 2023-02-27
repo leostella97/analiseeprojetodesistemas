@@ -44,3 +44,5 @@ A UML é bastante <i>vantajosa</i> porque:
 <br>
 1 - Serve como linguagem para expressar decisões de projetos que não são óbvias ou que não podem ser deduzidas no código.
 <br>
+2 - Provê uma forma concreta o suficiente para a compreensão das pessoas para ser manipulada pelas máquinas.
+<br>
