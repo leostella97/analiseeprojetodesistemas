@@ -35,4 +35,5 @@ Alguns <i>conceitos</i> são:
 O <i>principal</i> valor da UML está no <b>entendimento e comunicação</b>
 <br>
 A <b>UML executável</b> é <i>semelhante</i> a <b>MDA(Model Driven Architeture)</b> mas, não usa o <i>padrão UML</i> completo, muitas construções da UML são consideradas desnecessárias e, portanto, não são usadas. Como resultado, a <i>UML executável</i> é mais <i>simples</i> que a UML completa.
-<br>
+<br><br>
+A UML define uma <i> noteção</i> e um <i>metamodelo</i>. A notação é o <i>material gráfico</i> que se vê nos modelos, ela é a <i>sintaxe gráfica</i> da linguagem de modelagem. Por exemplo, a notação de diagrama de classes define como são representados os <i>itens</i> e <i>conceitos</i>, como classe, associação e multiplicidade.
