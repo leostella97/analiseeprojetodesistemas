@@ -34,4 +34,5 @@ Alguns <i>conceitos</i> são:
 <br><br>
 O <i>principal</i> valor da UML está no <b>entendimento e comunicação</b>
 <br>
-A <b>UML executável</b> é <i>semelhante</i> a <b>MDA(Model Driven Architeture)</b> mas, não usa o <i>padrão UML</i> completo, muitas construções da UML são consideradas desnecessárias e, portanto, não são usadas. Como resultado, a <i>UML executável</i> é mais <i>simples</i> que a UML completa
+A <b>UML executável</b> é <i>semelhante</i> a <b>MDA(Model Driven Architeture)</b> mas, não usa o <i>padrão UML</i> completo, muitas construções da UML são consideradas desnecessárias e, portanto, não são usadas. Como resultado, a <i>UML executável</i> é mais <i>simples</i> que a UML completa.
+<br>
