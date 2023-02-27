@@ -39,4 +39,8 @@ A <b>UML executável</b> é <i>semelhante</i> a <b>MDA(Model Driven Architeture)
 A UML define uma <i> noteção</i> e um <i>metamodelo</i>. A notação é o <i>material gráfico</i> que se vê nos modelos, ela é a <i>sintaxe gráfica</i> da linguagem de modelagem. Por exemplo, a notação de diagrama de classes define como são representados os <i>itens</i> e <i>conceitos</i>, como classe, associação e multiplicidade.
 <br><br>
 Uma <b>UML válida</b> é aquela que <b>cumpre</b> as regras <i>sintáticas</i> e <i>semânticas</i> da linguagem UML, bem como representar corretamente a arquitetura e as relações de um sistema de maneira clara e completa.
+<br><br>
+A UML é bastante <i>vantajosa</i> porque:
+<br>
+1 - Serve como linguagem para expressar decisões de projetos que não são óbvias ou que não podem ser deduzidas no código.
 <br>
