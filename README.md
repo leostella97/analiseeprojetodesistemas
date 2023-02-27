@@ -51,4 +51,5 @@ A UML é bastante <i>vantajosa</i> porque:
 Os conceitos da <b>engenharia de software</b>, que implica que existem fases que devem ser seguidaspara que o software seja eçaborado.
 <br>
 Ao encadeamento específico dessas fases para a construção do sistema, dá-se o nome de <b>modelo de ciclo de vida</b>. O <i>modelo em cascata</i>, as atividades são sequenciais e uma fase deve ser terminada para outra começar.
-<br>
+<br><br>
+<i>Modelo de desenvolvimento incremental</i> e <i>interativo</i>, as atividades são intercaladas, sendo desenvolvida em vários passos similares(iterativos) e, em cada passo, o sistema é extendido com mais funcionalidades (incremental)
